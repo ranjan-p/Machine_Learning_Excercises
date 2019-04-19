@@ -1,6 +1,6 @@
 # Machine Learning
 
-![images.jpeg](EDA_Images/EDA2.jpg)
+![images.jpeg](ML_Images/ML1.jpg)
 
 In statistics, exploratory data analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. 
 

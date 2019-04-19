@@ -1,2 +1,2 @@
-# Machine_Learning_Excercises
+# Machine Learning Excercises
 Repository for Machine Learning Excercises

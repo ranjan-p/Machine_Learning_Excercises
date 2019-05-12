@@ -15,7 +15,7 @@ This repository contains the details on the Machine Learning Analysis conducted 
 ___
 
 <a id=section2></a>
-### [2. EDA - Employee Attrition Dataset](./EDA_HEA)
+### [2. ML - Employee Attrition Dataset](./EDA_HEA)
 
 ![images.jpeg](ML_Images/HEA_Banner.png)
 

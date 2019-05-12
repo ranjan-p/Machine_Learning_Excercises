@@ -1,4 +1,4 @@
-# ML - Employee Attrition Dataset - 
+# ML - Employee Attrition Dataset 
 
 ![image.png](HEA_Images/HEA_Banner_1.png)
 

@@ -10,16 +10,20 @@ This repository contains the details on the Machine Learning Analysis conducted 
 
 ## Contents
 
-[1. ML - Employee Attrition Dataset](#section1)<br>
+[1. Predicting Maximum Temperature using Linear Regression](#section1)<br>
 
 ___
 
 <a id=section1></a>
-### [1. ML - Employee Attrition Dataset](./ML_HEA)
+### [1. Predicting Maximum Temperature using Linear Regression](./PMT_LinReg)
 
-![images.jpeg](ML_Images/HEA_Banner.png)
+![images.jpeg](ML_Images/weather_forecast.jpg)
 
-In this exercise, our goal is to predict the employee attrition. We will explore which variables are contibuting the most towards employee attrition. We will first investigate, if the variables in the dataset are correlated i.e Data Exploration.
+In this exercise, we will explore the basic use of Pandas and will cover the basic commands of Exploratory Data Analysis(EDA) which includes cleaning, munging, combining, reshaping, slicing, dicing, and transforming data for analysis purpose. We will also develop a regression model to predict the Maximum Temperature.
+
+Based on the weather data in the Summary of Weather dataset, develop a predictive model to determine the Maximum Temperature on a given day.
+
+The dataset contains information on weather conditions recorded on each day at various weather stations around the world. Information includes precipitation, snowfall, temperatures, wind speed and whether the day included thunder storms or other poor weather conditions.
 ___
 
 
